@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+calibration.json
+highscore.json
+.pytest_cache/
+shots/
